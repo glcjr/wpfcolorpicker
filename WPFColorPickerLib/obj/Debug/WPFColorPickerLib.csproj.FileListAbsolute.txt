@@ -1,0 +1,15 @@
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\bin\Debug\WPFColorPickerLib.dll
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\bin\Debug\WPFColorPickerLib.pdb
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\ColorPicker.baml
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\ColorDialog.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\ColorPicker.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib_MarkupCompile.cache
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib_MarkupCompile.lref
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\ColorDialog.baml
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.g.resources
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.Properties.Resources.resources
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.csproj.GenerateResource.Cache
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.dll
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Debug\WPFColorPickerLib.pdb

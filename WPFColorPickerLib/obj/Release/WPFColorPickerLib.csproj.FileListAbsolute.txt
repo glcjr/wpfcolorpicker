@@ -1,0 +1,44 @@
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.dll
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.pdb
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.baml
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.cache
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.lref
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.baml
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.g.resources
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.Properties.Resources.resources
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.csproj.GenerateResource.Cache
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.dll
+C:\Users\Gary\Downloads\WPFColorPicker\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.pdb
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.dll
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.pdb
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.baml
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.g.cs
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.g.cs
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.cache
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.lref
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.baml
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.g.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.Properties.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.dll
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.pdb
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.dll
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\bin\Release\WPFColorPickerLib.pdb
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.baml
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.g.cs
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorPicker.g.cs
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.cache
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib_MarkupCompile.lref
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\ColorDialog.baml
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.g.resources
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.Properties.Resources.resources
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.csproj.GenerateResource.Cache
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.dll
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.pdb
+C:\Users\Downstairs Computer\OneDrive\glonedrive\OneDrive\Visual Studio Projects\WPFColorPicker\WPFColorPickerLib\obj\Release\WPFColorPickerLib.csprojResolveAssemblyReference.cache
